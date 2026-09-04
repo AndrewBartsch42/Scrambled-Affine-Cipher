@@ -19,5 +19,5 @@ An affine cipher with a random starting condition that should increase the secur
 ---
 
 ## Tech Used
- - Python ![PyPI Python Version](https://img.shields.io/pypi/pyversions/:packageName)
+ - Python
 ---
