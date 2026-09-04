@@ -17,5 +17,5 @@ An affine cipher with a random starting condition that should increase the secur
 
 
 ## Tech Used
-Python
+ - Python
 ---
